@@ -1,7 +1,7 @@
 1. install Ollama
 2. install nodejs
 3. npm install
-4. npm server.js
+4. npm start
 5. install ngrok
 6. direct http 11434 using ngrok
 7. curl -Method POST https://{address ngrok give}/v1/chat/completions `
